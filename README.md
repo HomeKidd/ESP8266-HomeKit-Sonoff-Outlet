@@ -1,4 +1,4 @@
-# Native  Homekit support for ESP8266/ESP8285 based [Sonoff](http://s.click.aliexpress.com/e/_dUgIncp) Outlets
+# Native  Homekit support for ESP8266/ESP8285 based [Sonoff](http://s.click.aliexpress.com/e/_dUgIncp) Outlets 💡🛋
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
@@ -16,11 +16,11 @@
 **Features:**
 
 * Smart Outlet HomeKit accessory
-* Tuning the Outlet ON/OFF
+* Turning the Outlet ON/OFF
 * Child Lock _(Enable/Disable button press via Eve app)_
 * Power / Reset button
 * **Supported Devices: [Sonoff S20](https://s.click.aliexpress.com/e/_eKqZGb), [S26](https://s.click.aliexpress.com/e/_eM5HM3), [S31](https://s.click.aliexpress.com/e/_etenM3) and [S55](https://s.click.aliexpress.com/e/_et4QWX)**
-* ~~OTA firmware update~~ _(not implemented yet)_
+* ~~OTA firmware update~~
 
 **Demo:**
 
