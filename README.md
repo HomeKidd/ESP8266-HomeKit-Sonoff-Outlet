@@ -11,7 +11,7 @@
 
 ## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/Sonoff_HomeKit_ESP8266/wiki/)!
 
-### Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/nooootyeeeet)! 🤓
+~~### Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/nooootyeeeet)! 🤓~~
 
 **Features:**
 
