@@ -11,11 +11,11 @@
 
 # For usage and more information please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/wiki/)!
 
-~~Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Switches)! 🤓~~
+~~Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Switch)! 🤓~~
 
 **Features:**
 
-* Smart Outlet HomeKit accessory
+* **Smart Outlet HomeKit accessory**
 * Turning the Outlet ON/OFF
 * Child Lock _(Enable/Disable button press via Eve app)_
 * Power / Reset button
