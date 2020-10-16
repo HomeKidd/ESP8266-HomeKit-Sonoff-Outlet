@@ -3,15 +3,15 @@
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/Sonoff_HomeKit_ESP8266/total?color=green)](https://github.com/HomeKidd/Sonoff_HomeKit_ESP8266/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/Sonoff_HomeKit_ESP8266?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/Sonoff_HomeKit_ESP8266/releases) 
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
-## For usage and more information please read the [Wiki page](https://github.com/HomeKidd/Sonoff_HomeKit_ESP8266/wiki/)!
+# For usage and more information please read the [Wiki page](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/wiki/)!
 
-~~### Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/nooootyeeeet)! 🤓~~
+~~Also available for Sonoff Switches which you can find [here](https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Switches)! 🤓~~
 
 **Features:**
 
@@ -26,7 +26,7 @@
 
 [![](http://img.youtube.com/vi/TG9xq7itfwh0k/0.jpg)](http://www.youtube.com/watch?v=TG9ffxq7ith0k "Demo Video")
 <br/>
-<img src="https://github.com/HomeKidd/Sonoff_HomeKit_ESP8266/raw/master/Images/demo.jpg" class="center" width="500"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Sonoff-Outlet/raw/master/Images/demo.jpg" class="center" width="500"/>
 
 <br/>
 <br/>
